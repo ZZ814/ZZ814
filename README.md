@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZZ814
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Games，coding
+- 🌱 I’m currently learning C++ and Java.
+- 📫 How to reach me :1538147410@qq.com
 
 <!---
 ZZ814/ZZ814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
